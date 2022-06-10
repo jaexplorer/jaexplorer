@@ -4,11 +4,14 @@
 
 Passionate about user experience and design. Fast learner and eager to explore new technologies. If it ain't simple, its probably not done right. Believer in agile software development, team work and clean Code. 
 
+
 - 📍 I’m from Melbourne, Australia
 - 💻 7+ Years Experience in Fullstack Development
 - 👨‍💻 Absolutely love React native and css
 - 📚 Want to get into AWS
 - 👌 I like to over salt my chips
+
+
 
 ### 💻 Tech Stack:
 
@@ -29,6 +32,7 @@ Passionate about user experience and design. Fast learner and eager to explore n
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
+
 
 ### 🛠 Tools:
 
