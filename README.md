@@ -11,7 +11,7 @@ Passionate about user experience and design. Fast learner and eager to explore n
 - 📚 Want to get into AWS
 - 👌 I like to over salt my chips
 
-
+---
 
 ### 💻 Tech Stack:
 
