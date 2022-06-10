@@ -1,6 +1,14 @@
 <img src="https://github.com/jaexplorer/jaexplorer/blob/main/assets/preview.jpeg">
 
-## Hi, I'm Andrew Sabato
+## Hi, I'm Andrew Sabato - Full Stack Developer (React Native & Web)
+
+Passionate about user experience and design. Fast learner and eager to explore new technologies. If it ain't simple, its probably not done right. Believer in agile software development, team work and clean Code. 
+
+- 📍 I’m from Melbourne, Australia
+- 💻 7+ Years Experience in Fullstack Development
+- 👨‍💻 Absolutely love React native and css
+- 📚 Want to get into AWS
+- 👌 I like to over salt my chips
 
 ### 💻 Tech Stack:
 
