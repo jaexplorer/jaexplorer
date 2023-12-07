@@ -8,7 +8,7 @@ Passionate about user experience and design. Fast learner and eager to explore n
 - 📍 I’m from Melbourne, Australia
 - 💻 7+ Years Experience in Fullstack Development
 - 👨‍💻 Absolutely love React native and css
-- 📚 Want to get into AWS
+- 📚 Love AWS and want to learn more
 - 👌 I like to over salt my chips
 
 ---
